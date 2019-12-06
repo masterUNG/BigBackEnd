@@ -13,6 +13,14 @@ class MyStyle {
     fontSize: 30.0,
     fontWeight: FontWeight.bold,
     color: Color.fromARGB(0xff, 0xbc, 0x51, 0x00),
+    fontFamily: 'Yellowtail',
+  );
+
+  TextStyle h2Style = TextStyle(
+    fontSize: 18.0,
+    fontWeight: FontWeight.bold,
+    color: Color.fromARGB(0xff, 0xbc, 0x51, 0x00),
+    fontFamily: 'Yellowtail',
   );
 
   MyStyle();
